@@ -1,0 +1,25 @@
+export const oldSchoolData = [
+  { nintendoNumber: 1, gameName: "CONTRA 1" },
+  { nintendoNumber: 2, gameName: "CONTRA 2" },
+  { nintendoNumber: 3, gameName: "CONTRA 3" },
+  { nintendoNumber: 4, gameName: "CONTRA 6" },
+  { nintendoNumber: 5, gameName: "CONTRA 7" },
+  { nintendoNumber: 6, gameName: "CONTRA 8" },
+  { nintendoNumber: 7, gameName: "ROBOCOP 1" },
+  { nintendoNumber: 8, gameName: "ROBOCOP 2" },
+  { nintendoNumber: 9, gameName: "ROBOCOP 3" },
+  { nintendoNumber: 10, gameName: "ROBOCOP 4" },
+  { nintendoNumber: 11, gameName: "NINJA TURTLES 1" },
+  { nintendoNumber: 12, gameName: "NINJA TURTLES 2" },
+  { nintendoNumber: 13, gameName: "NINJA TURTLES 3" },
+  { nintendoNumber: 14, gameName: "NINJA TURTLES 4" },
+  { nintendoNumber: 15, gameName: "DOUBLE DRAGON 1" },
+  { nintendoNumber: 16, gameName: "DOUBLE DRAGON 2" },
+  { nintendoNumber: 17, gameName: "DOUBLE DRAGON 3" },
+  { nintendoNumber: 18, gameName: "DOUBLE DRAGON 4" },
+  { nintendoNumber: 19, gameName: "ADVENTURE ISLAND" },
+  { nintendoNumber: 20, gameName: "ADVENTURE ISLAND 2" },
+  { nintendoNumber: 21, gameName: "ADVENTURE ISLAND 3" },
+];
+
+export default oldSchoolData;
