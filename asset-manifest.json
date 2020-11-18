@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/OldSchool/static/css/main.b096e38d.chunk.css",
-    "main.js": "/OldSchool/static/js/main.2978367f.chunk.js",
-    "main.js.map": "/OldSchool/static/js/main.2978367f.chunk.js.map",
+    "main.css": "/OldSchool/static/css/main.be647871.chunk.css",
+    "main.js": "/OldSchool/static/js/main.c9d8785e.chunk.js",
+    "main.js.map": "/OldSchool/static/js/main.c9d8785e.chunk.js.map",
     "runtime-main.js": "/OldSchool/static/js/runtime-main.cfdb2d27.js",
     "runtime-main.js.map": "/OldSchool/static/js/runtime-main.cfdb2d27.js.map",
     "static/js/2.e32991b6.chunk.js": "/OldSchool/static/js/2.e32991b6.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.b3acfb2f.chunk.js": "/OldSchool/static/js/3.b3acfb2f.chunk.js",
     "static/js/3.b3acfb2f.chunk.js.map": "/OldSchool/static/js/3.b3acfb2f.chunk.js.map",
     "index.html": "/OldSchool/index.html",
-    "static/css/main.b096e38d.chunk.css.map": "/OldSchool/static/css/main.b096e38d.chunk.css.map",
+    "static/css/main.be647871.chunk.css.map": "/OldSchool/static/css/main.be647871.chunk.css.map",
     "static/js/2.e32991b6.chunk.js.LICENSE.txt": "/OldSchool/static/js/2.e32991b6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cfdb2d27.js",
     "static/js/2.e32991b6.chunk.js",
-    "static/css/main.b096e38d.chunk.css",
-    "static/js/main.2978367f.chunk.js"
+    "static/css/main.be647871.chunk.css",
+    "static/js/main.c9d8785e.chunk.js"
   ]
 }
