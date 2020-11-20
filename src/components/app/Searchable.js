@@ -34,9 +34,9 @@ class Searchable extends React.Component {
         <br></br>
         <h3>Game Titles</h3>
 
-        <div>
+        <div className="dataList">
           {this.dynamicSearch().map((x) => (
-            <div>
+            <div className="dataItem">
               {x.nintendoNumber}.{x.gameName}
             </div>
           ))}

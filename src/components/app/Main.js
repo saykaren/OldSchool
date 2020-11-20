@@ -6,14 +6,14 @@ class Main extends Component {
 
     console.log({ dataProp });
     return (
-      <div>
-        Data here:
+      <div className="dataList">
+        {/* Data here:
         {dataProp &&
           dataProp.map((nintendo, index) => (
-            <div key={index}>
+            <div key={index} className="dataItem">
               {nintendo.nintendoNumber}: {nintendo.gameName}
             </div>
-          ))}
+          ))} */}
       </div>
     );
   }
