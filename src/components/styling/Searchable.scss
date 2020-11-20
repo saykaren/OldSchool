@@ -1,0 +1,15 @@
+@import './Variables.scss';
+
+.dataList {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.dataItem {
+    margin: 5px;
+    padding: 15px;
+    background-color: $secondary-color;
+    color: $primary-color;
+    border-radius: 10px;
+    box-shadow: 5px 6px 7px $light-color;
+}
