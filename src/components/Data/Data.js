@@ -87,18 +87,14 @@ export const oldSchoolData = [
   { nintendoNumber: 87, gameName: "BIRD WEEK" },
   { nintendoNumber: 88, gameName: "BOMBER MAN" },
   { nintendoNumber: 89, gameName: "BRUSH SWEEPER" },
-
   { nintendoNumber: 90, gameName: "BRUSH ROLLER" },
   { nintendoNumber: 91, gameName: " BURGER TIME " },
-
   { nintendoNumber: 92, gameName: "CHACK AND POP" },
   { nintendoNumber: 93, gameName: "CHESS" },
   { nintendoNumber: 94, gameName: "CIRCUS CHARLIE" },
-
   { nintendoNumber: 95, gameName: "CLU CLU LAND " },
   { nintendoNumber: 96, gameName: "COMBAT" },
   { nintendoNumber: 97, gameName: "DEFENDER" },
-
   { nintendoNumber: 98, gameName: "DEVIL WORLD " },
   { nintendoNumber: 99, gameName: "DIG DUG 1" },
   { nintendoNumber: 100, gameName: "DONKEY KONG 1" },
@@ -174,7 +170,6 @@ export const oldSchoolData = [
   { nintendoNumber: 170, gameName: "HEXA" },
   { nintendoNumber: 171, gameName: "ICE HOCKEY" },
   { nintendoNumber: 172, gameName: "LOT LOT" },
-
   { nintendoNumber: 173, gameName: "MAGMAX" },
   { nintendoNumber: 174, gameName: "PKA CHU" },
   { nintendoNumber: 175, gameName: "NINJA 2 " },
@@ -184,7 +179,6 @@ export const oldSchoolData = [
   { nintendoNumber: 179, gameName: "PACHI COM" },
   { nintendoNumber: 180, gameName: "PRO WRESTLING" },
   { nintendoNumber: 181, gameName: "PYRAMID" },
-
   { nintendoNumber: 182, gameName: "ROUTE-16" },
   { nintendoNumber: 183, gameName: "SECROSS" },
   { nintendoNumber: 184, gameName: "SLALOM" },
@@ -273,7 +267,6 @@ export const oldSchoolData = [
   { nintendoNumber: 267, gameName: "ESCAPEWAY" },
   { nintendoNumber: 268, gameName: "FAIR'S TREASURE" },
   { nintendoNumber: 269, gameName: "FALLING BLOCKS" },
-
   { nintendoNumber: 270, gameName: "FATED PIRATE" },
   { nintendoNumber: 271, gameName: "FINAL BLOOD" },
   { nintendoNumber: 272, gameName: "FISH STORY" },
@@ -298,11 +291,9 @@ export const oldSchoolData = [
   { nintendoNumber: 291, gameName: "MIRROR DEVIL WORD" },
   { nintendoNumber: 292, gameName: "MOUSE SNARE" },
   { nintendoNumber: 293, gameName: "MOUSE HERO" },
-
   { nintendoNumber: 294, gameName: "MOWING" },
   { nintendoNumber: 295, gameName: "NUT CRACKY " },
   { nintendoNumber: 296, gameName: "CRYSTAL BALL" },
-
   { nintendoNumber: 297, gameName: "POLICE DOG LASY" },
   { nintendoNumber: 298, gameName: "POLICE VS THIEF" },
   { nintendoNumber: 299, gameName: "PONGPONG" },
@@ -339,26 +330,11 @@ export const oldSchoolData = [
   { nintendoNumber: 330, gameName: "EGYPT" },
   { nintendoNumber: 331, gameName: "ALPHA MISSION" },
   { nintendoNumber: 332, gameName: "FIREHOUSE RESCUE" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
 
-  
-  
 
   /*     
 
   */
-
-  
-  
-  
-   
-   
-  
-  
-   
-   
-  
 
   { nintendoNumber: 1111111, gameName: "WOLF" },
   { nintendoNumber: 1111111, gameName: "WOLF" },
