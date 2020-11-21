@@ -330,314 +330,295 @@ export const oldSchoolData = [
   { nintendoNumber: 330, gameName: "EGYPT" },
   { nintendoNumber: 331, gameName: "ALPHA MISSION" },
   { nintendoNumber: 332, gameName: "FIREHOUSE RESCUE" },
+  { nintendoNumber: 333, gameName: "I CAN REMEMBER" },
+  { nintendoNumber: 334, gameName: "HOKUTO NO KEN" },
+  { nintendoNumber: 335, gameName: "CHITEI TANKEN" },
+  { nintendoNumber: 336, gameName: "BATTLE SHIP" },
+  { nintendoNumber: 337, gameName: "SECRET CASTLE" },
+  { nintendoNumber: 338, gameName: "DEST EARTHSTAR" },
+  { nintendoNumber: 339, gameName: "TRUCK RALLY" },
+  { nintendoNumber: 340, gameName: "BINGO 75" },
+  { nintendoNumber: 341, gameName: "BUMP N JUMP" },
+  { nintendoNumber: 342, gameName: "DINO RIKI" },
+  { nintendoNumber: 343, gameName: "GHOST BUSTER" },
+  { nintendoNumber: 344, gameName: "SPY HUNTER" },
+  { nintendoNumber: 345, gameName: "PAPER BOY" },
+  { nintendoNumber: 346, gameName: "TENAGEHU TANT" },
+  { nintendoNumber: 347, gameName: "BATTLE TANK" },
+  { nintendoNumber: 348, gameName: "ALADDIN 3" },
+  { nintendoNumber: 349, gameName: "TECKO BOWL" },
+  { nintendoNumber: 350, gameName: "MICKEY MOUSE" },
+  { nintendoNumber: 351, gameName: "QUARTH" },
+  { nintendoNumber: 352, gameName: "MO YA JIN" },
+  { nintendoNumber: 353, gameName: "GRADIUS" },
+  { nintendoNumber: 354, gameName: "MYSTERY" },
+  { nintendoNumber: 355, gameName: "FRIDAY THE 13" },
+  { nintendoNumber: 356, gameName: "634 KEN" },
+  { nintendoNumber: 357, gameName: "BOOT CAT" },
+  { nintendoNumber: 358, gameName: "HELLO KIDY" },
+  { nintendoNumber: 359, gameName: "SOLOMONS KEY" },
+  { nintendoNumber: 360, gameName: "FUPULL" },
+  { nintendoNumber: 361, gameName: "DEBLOCK" },
+  { nintendoNumber: 362, gameName: "BOWLING" },
+  { nintendoNumber: 363, gameName: "SPACE HUNTER" },
+  { nintendoNumber: 364, gameName: "TRANSF ORMES" },
+  { nintendoNumber: 365, gameName: "KARAKI" },
+  { nintendoNumber: 366, gameName: "CADIL" },
+  { nintendoNumber: 367, gameName: "WOTER PIP" },
+  { nintendoNumber: 368, gameName: "QUARTERBACK" },
+  { nintendoNumber: 369, gameName: "KARATE CHAMP" },
+  { nintendoNumber: 370, gameName: "KING KNIFHT" },
+  { nintendoNumber: 371, gameName: "DAISAKUSEN" },
+  { nintendoNumber: 372, gameName: "VENICE BEACH VOLL" },
+  { nintendoNumber: 373, gameName: "SANRIO CARNIVAL" },
+  { nintendoNumber: 374, gameName: "SKY KID" },
+  { nintendoNumber: 375, gameName: "PON PON VOLLEY" },
+  { nintendoNumber: 376, gameName: "SANSUU 1" },
+  { nintendoNumber: 377, gameName: "SANSUU 2" },
+  { nintendoNumber: 378, gameName: "SANSUU 3" },
+  { nintendoNumber: 379, gameName: "SANSUU 4" },
+  { nintendoNumber: 380, gameName: "SANSUU 5" },
+  { nintendoNumber: 381, gameName: "SHOCKWAVE" },
+  { nintendoNumber: 382, gameName: "TILES OF FATE" },
+  { nintendoNumber: 383, gameName: "TSUPPARI OOZUMOU" },
+  { nintendoNumber: 384, gameName: "DENSETSU" },
+  { nintendoNumber: 385, gameName: "COSMOS COP" },
+  { nintendoNumber: 386, gameName: "BAR GAMES" },
+  { nintendoNumber: 387, gameName: "BUGGY POPPER" },
+  { nintendoNumber: 388, gameName: "LI MA SHIN DIAN" },
+  { nintendoNumber: 389, gameName: "METAL FIGHTER"},
+  { nintendoNumber: 390, gameName: "PIPE DREAM"},
+  { nintendoNumber: 391, gameName: "ATLANTIS"},
+  { nintendoNumber: 392, gameName: "CYBRNOID"},
+  { nintendoNumber: 393, gameName: "CITY CONNECTION"},
+  { nintendoNumber: 394, gameName: "CHOP LIFTER"},
+  { nintendoNumber: 395, gameName: "TWIN BEE"},
+  { nintendoNumber: 396, gameName: "LEGEND OF KAGE"},
+  { nintendoNumber: 397, gameName: "DR MARIO"},
+  { nintendoNumber: 398, gameName: "GOONIES"},
+  { nintendoNumber: 399, gameName: "GYRUSS"},
+  { nintendoNumber: 400, gameName: "WISDOM"},
+  { nintendoNumber: 401, gameName: "POWER ROBOT"},
+  { nintendoNumber: 402, gameName: "PULVERATION"},
+  { nintendoNumber: 403, gameName: "RABBITVILLAGE"},
+  { nintendoNumber: 404, gameName: "RIVER JUMP"},
+  { nintendoNumber: 405, gameName: "SEAPORT GUARL"},
+  { nintendoNumber: 406, gameName: "SEAWOLF"},
+  { nintendoNumber: 407, gameName: "SPACE BASE"},
+  { nintendoNumber: 408, gameName: "SPIDERMAN 2"},
+  { nintendoNumber: 409, gameName: "SPIDERMAN 1"},
+  { nintendoNumber: 410, gameName: "SPRING WORLD"},
+  { nintendoNumber: 411, gameName: "STAR"},
+  { nintendoNumber: 412, gameName: "SUBMARINE"},
+  { nintendoNumber: 413, gameName: "THROUGHMAN"},
+  { nintendoNumber: 414, gameName: "TOY FACTORY"},
+  { nintendoNumber: 415, gameName: "UTMOST WARFARE"},
+  { nintendoNumber: 416, gameName: "VIGILANT"},
+  { nintendoNumber: 417, gameName: "WARZONE"},
+  { nintendoNumber: 418, gameName: "WATER PIPE"},
+  { nintendoNumber: 419, gameName: "WILDWORM"},
+  { nintendoNumber: 420, gameName: "WONDER BALL"},
+  { nintendoNumber: 421, gameName: "MOVE BOX"},
+  { nintendoNumber: 422, gameName: "COLOR FULL DRAGON"},
+  { nintendoNumber: 423, gameName: "BACK FUTURE"},
+  { nintendoNumber: 424, gameName: "ARKISTA RING"},
+  { nintendoNumber: 425, gameName: "BANDAI GOLF"},
+  { nintendoNumber: 426, gameName: "CASTLE EXCELLENT"},
+  { nintendoNumber: 427, gameName: "TIGER HELI"},
+  { nintendoNumber: 428, gameName: "THE UNIVERSE SOLD"},
+  { nintendoNumber: 429, gameName: "DASH GALAXY"},
+  { nintendoNumber: 430, gameName: "Q-BERT"},
+  { nintendoNumber: 431, gameName: "EGYPT"},
+  { nintendoNumber: 432, gameName: "ALPHA MISSION"},
+  { nintendoNumber: 433, gameName: "FIREHOUSE RESCUE"},
+  { nintendoNumber: 434, gameName: "I CAN REMEMBER"},
+  { nintendoNumber: 435, gameName: "HOKUTO NO KEN"},
+  { nintendoNumber: 436, gameName: "CHITEI TANKEN"},
+  { nintendoNumber: 437, gameName: "BATTLE SHIP"},
+  { nintendoNumber: 438, gameName: "SECRET CASTLE"},
+  { nintendoNumber: 439, gameName: "DEST EARTHSTAR"},
+  { nintendoNumber: 440, gameName: "TRUCK RALLY"},
+  { nintendoNumber: 441, gameName: "BINGO 75"},
+  { nintendoNumber: 442, gameName: "BUMP N JUMP"},
+  { nintendoNumber: 443, gameName: "DINO RIKI"},
+  { nintendoNumber: 444, gameName: "GHOST BUSTERS"},
+  { nintendoNumber: 445, gameName: "SPY HUNTER"},
+  { nintendoNumber: 446, gameName: "PAPER BOY"},
+  { nintendoNumber: 447, gameName: "TENAGEHU TANT"},
+  { nintendoNumber: 448, gameName: "BATTLE TANK"},
+  { nintendoNumber: 449, gameName: "ALADDIN 3"},
+  { nintendoNumber: 450, gameName: "TECKO BOWL"},
+  { nintendoNumber: 451, gameName: "MICKEY MOUSE"},
+  { nintendoNumber: 452, gameName: "QUARTH"},
+  { nintendoNumber: 453, gameName: "MO YA JIN"},
+  { nintendoNumber: 454, gameName: "GRADIUS"},
+  { nintendoNumber: 455, gameName: "MYSTERY"},
+  { nintendoNumber: 456, gameName: "FRIDAY THE 13"},
+  { nintendoNumber: 457, gameName: "634 KEN"},
+  { nintendoNumber: 458, gameName: "BOOT CAT"},
+  { nintendoNumber: 459, gameName: "HELLO KIDY"},
+  { nintendoNumber: 460, gameName: "SOLOMONS KEY"},
+  { nintendoNumber: 461, gameName: "FLIPULL"},
+  { nintendoNumber: 462, gameName: "DEBLOCK"},
+  { nintendoNumber: 463, gameName: "BOWLING"},
+  { nintendoNumber: 464, gameName: "SPACE HUNTER"},
+  { nintendoNumber: 465, gameName: "TRANSFORMS"},
+  { nintendoNumber: 466, gameName: "KARAKI"},
+  { nintendoNumber: 467, gameName: "CADIL"},
+  { nintendoNumber: 468, gameName: "WOTER PIP"},
+  { nintendoNumber: 469, gameName: "QUARTERBACK"},
+  { nintendoNumber: 470, gameName: "KARATE CHAMP"},
+  { nintendoNumber: 471, gameName: "KING KNIGHT"},
+  { nintendoNumber: 472, gameName: "DAISAKUSEN"},
+  { nintendoNumber: 473, gameName: "VEINCE BEACH VOLL"},
+  { nintendoNumber: 474, gameName: "SANRIO CARNIVAL"},
+  { nintendoNumber: 475, gameName: "SKY KID"},
+  { nintendoNumber: 476, gameName: "PON PON VOLLEY"},
+  { nintendoNumber: 477, gameName: "SANSUU 1"},
+  { nintendoNumber: 478, gameName: "SANSUU 2"},
+  { nintendoNumber: 479, gameName: "SANSUU 3"},
+  { nintendoNumber: 480, gameName: "SANSUU 4"},
+  { nintendoNumber: 481, gameName: "SANSUU 5"},
+  { nintendoNumber: 482, gameName: "SHOCKWAVE"},
+  { nintendoNumber: 483, gameName: "TILES OF FATE"},
+  { nintendoNumber: 484, gameName: "TSUPPARI OOZUMOU"},
+  { nintendoNumber: 485, gameName: "DENSETSU"},
+  { nintendoNumber: 486, gameName: "COSMOS COP"},
+  { nintendoNumber: 487, gameName: "BAR GAMES"},
+  { nintendoNumber: 488, gameName: "BUGGY POPPER"},
+  { nintendoNumber: 489, gameName: "LI MA SHIN DIAN"},
+  { nintendoNumber: 490, gameName: "METAL FIGHTER"},
+  { nintendoNumber: 491, gameName: "PIPE DREAM"},
+  { nintendoNumber: 492, gameName: "ATLANTIS"},
+  { nintendoNumber: 493, gameName: "CYBRNOID"},
+  { nintendoNumber: 494, gameName: "CITY CONNRCTION"},
+  { nintendoNumber: 495, gameName: "CHOP LIFTER"},
+  { nintendoNumber: 496, gameName: "TWIN BEE"},
+  { nintendoNumber: 497, gameName: "LEGEND OF KAGE"},
+  { nintendoNumber: 498, gameName: "GOONIES"},
+  { nintendoNumber: 499, gameName: "GYRUSS"},
+  { nintendoNumber: 500, gameName: "WISDOM"},
+  { nintendoNumber: 501, gameName: "CHESS"},
+  { nintendoNumber: 502, gameName: "CIRCUS CHANGE"},
+  { nintendoNumber: 503, gameName: "CLU CLU LAND"},
+  { nintendoNumber: 504, gameName: "COMBAT"},
+  { nintendoNumber: 505, gameName: "DEFENDER"},
+  { nintendoNumber: 506, gameName: "DEVIL WORLD"},
+  { nintendoNumber: 507, gameName: "DIG DUG 1"},
+  { nintendoNumber: 508, gameName: "DONKEY KONG 1"},
+  { nintendoNumber: 509, gameName: "DONKEY KONG 2"},
+  { nintendoNumber: 510, gameName: "DONKEY KONG 3"},
+  { nintendoNumber: 511, gameName: "DONKEY KONG JR MA"},
+  { nintendoNumber: 512, gameName: "DOOR DOOR"},
+  { nintendoNumber: 513, gameName: "EXCITE BIKE "},
+  { nintendoNumber: 514, gameName: "EXERION"},
+  { nintendoNumber: 515, gameName: "F1 RACE"},
+  { nintendoNumber: 516, gameName: "FORMATION Z"},
+  { nintendoNumber: 517, gameName: "FRONT LINE"},
+  { nintendoNumber: 518, gameName: "GALAGA"},
+  { nintendoNumber: 519, gameName: "GALAXIAN"},
+  { nintendoNumber: 520, gameName: "GOLF"},
+  { nintendoNumber: 521, gameName: "RAID ON BUNGELING"},
+  { nintendoNumber: 522, gameName: "HYPER OLYMPIC"},
+  { nintendoNumber: 523, gameName: "HYPER SPORTS"},
+  { nintendoNumber: 524, gameName: "JOUST "},
+  { nintendoNumber: 525, gameName: "KARATERA"},
+  { nintendoNumber: 526, gameName: "LODE RUNNER"},
+  { nintendoNumber: 527, gameName: "LUNAR BALL"},
+  { nintendoNumber: 528, gameName: "MACROSS"},
+  { nintendoNumber: 529, gameName: "MAGIC JEWELRY"},
+  { nintendoNumber: 530, gameName: "MAHJONG 4P"},
+  { nintendoNumber: 531, gameName: "MAHJONG 2P"},
+  { nintendoNumber: 532, gameName: "MAPPY"},
+  { nintendoNumber: 533, gameName: "MARIO BROS"},
+  { nintendoNumber: 534, gameName: "MILK&NUTS"},
+  { nintendoNumber: 535, gameName: "MILLIPEDE"},
+  { nintendoNumber: 536, gameName: "MUSCLE"},
+  { nintendoNumber: 537, gameName: "NAITOU"},
+  { nintendoNumber: 538, gameName: "NIBBLES"},
+  { nintendoNumber: 539, gameName: "NINJA 1"},
+  { nintendoNumber: 540, gameName: "NINJA 3"},
+  { nintendoNumber: 541, gameName: "ROAD FIGHTER"},
+  { nintendoNumber: 542, gameName: "OTHELLO"},
+  { nintendoNumber: 543, gameName: "PACMAN"},
+  { nintendoNumber: 544, gameName: "PIN BALL"},
+  { nintendoNumber: 545, gameName: "POOYAN"},
+  { nintendoNumber: 546, gameName: "POPEYE"},
+  { nintendoNumber: 547, gameName: "SKY DESTROYER"},
+  { nintendoNumber: 548, gameName: "SPACE ET"},
+  { nintendoNumber: 549, gameName: "STAR FORCE"},
+  { nintendoNumber: 550, gameName: "TENNIS"},
+  { nintendoNumber: 551, gameName: "URBAN CHAMPION"},
+  { nintendoNumber: 552, gameName: "WARPMAN"},
+  { nintendoNumber: 553, gameName: "YIE AR KUNG FU"},
+  { nintendoNumber: 554, gameName: "ZIPPY RACE"},
+  { nintendoNumber: 555, gameName: "1942"},
+  { nintendoNumber: 556, gameName: "ARKANOID"},
+  { nintendoNumber: 557, gameName: "ASTRO ROBO SASA"},
+  { nintendoNumber: 558, gameName: "B WINGS"},
+  { nintendoNumber: 559, gameName: "BADMINTON"},
+  { nintendoNumber: 560, gameName: "BALTRON"},
+  { nintendoNumber: 561, gameName: "BOKOSUKA WARS"},
+  { nintendoNumber: 562, gameName: "BOMB JACK"},
+  { nintendoNumber: 563, gameName: "PORTER"},
+  { nintendoNumber: 564, gameName: "CHUBBY CHERUB"},
+  { nintendoNumber: 565, gameName: "DESTROY"},
+  { nintendoNumber: 566, gameName: "DIG DUG 2"},
+  { nintendoNumber: 567, gameName: "DOUGH BOY"},
+  { nintendoNumber: 568, gameName: "DRAGON"},
+  { nintendoNumber: 569, gameName: "DRUAGA"},
+  { nintendoNumber: 570, gameName: "DUCK"},
+  { nintendoNumber: 571, gameName: "ELEVATOR ACTION"},
+  { nintendoNumber: 572, gameName: "EXED EXES"},
+  { nintendoNumber: 573, gameName: "FLAPPY"},
+  { nintendoNumber: 574, gameName: "FRUTI PIG"},
+  { nintendoNumber: 575, gameName: "GALG"},
+  { nintendoNumber: 576, gameName: "GRIMOS"},
+  { nintendoNumber: 577, gameName: "GYRODINE"},
+  { nintendoNumber: 578, gameName: "HEXA"},
+  { nintendoNumber: 579, gameName: "ICE HOCKEY"},
+  { nintendoNumber: 580, gameName: "LOT LOT"},
+  { nintendoNumber: 581, gameName: "MAGMAX"},
+  { nintendoNumber: 582, gameName: "PIKU CHU"},
+  { nintendoNumber: 583, gameName: "NINJA 2"},
+  { nintendoNumber: 584, gameName: "OBAKE"},
+  { nintendoNumber: 585, gameName: "ONYANKO TOWN"},
+  { nintendoNumber: 586, gameName: "PAC LAND"},
+  { nintendoNumber: 587, gameName: "PACHI COM"},
+  { nintendoNumber: 588, gameName: "PRP WRESTLING"},
+  { nintendoNumber: 589, gameName: "PYRAMID"},
+  { nintendoNumber: 590, gameName: "ROUTE-16"},
+  { nintendoNumber: 591, gameName: "SEICROSS"},
+  { nintendoNumber: 592, gameName: "SLALOM"},
+  { nintendoNumber: 593, gameName: "SOCCER "},
+  { nintendoNumber: 594, gameName: "SONSON"},
+  { nintendoNumber: 595, gameName: "SPARTAN X"},
+  { nintendoNumber: 596, gameName: "SPELUNKER"},
+  { nintendoNumber: 597, gameName: "SPY VS SPY"},
+  { nintendoNumber: 598, gameName: "SQOON"},
+  { nintendoNumber: 599, gameName: "STAR LUSTER"},
+  { nintendoNumber: 600, gameName: "FROG PRINCE"},
+  { nintendoNumber: 601, gameName: "TETRIS 2"},
+  { nintendoNumber: 602, gameName: "THEXDER"},
+  { nintendoNumber: 603, gameName: "VOLGUARD II"},
+  { nintendoNumber: 604, gameName: "VOLLEY BALL"},
+  { nintendoNumber: 605, gameName: "WARS"},
+  { nintendoNumber: 606, gameName: "XEVIOUS"},
+  { nintendoNumber: 607, gameName: "CHINESE CHESS"},
+  { nintendoNumber: 608, gameName: "CHALLENGER"},
+  { nintendoNumber: 609, gameName: "MACH RIODER"},
+  { nintendoNumber: 610, gameName: "SUDOKU"},
+  { nintendoNumber: 611, gameName: "AQUARIUM"},
+  { nintendoNumber: 612, gameName: "AREAN"},
+  { nintendoNumber: 613, gameName: "AIR ALEPT"},
+  { nintendoNumber: 614, gameName: "AWFUL RUSHING"},
+  { nintendoNumber: 615, gameName: "AIMLESS"},
+  { nintendoNumber: 616, gameName: "BURBLES"},
+  { nintendoNumber: 617, gameName: "BURROW EXPLORER"},
+  { nintendoNumber: 618, gameName: "BUG'S WAR"},
+  { nintendoNumber: 619, gameName: "BOMB KING"},
+  { nintendoNumber: 620, gameName: "BASEBALL NEW"},
 
-
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  /*     
-  I CAN REMEMBER
-  HOKUTO NO KEN
-  CHITEI TANKEN
-  BATTLE SHIP
-  SECRET CASTLE
-  DEST EARTHSTAR
-  TRUCK RALLY 
-  BINGO 75
-  BUMP N JUMP
-  DINO RIKI
-  GHOST BUSTER
-  SPY HUNTER
-  PAPER BOY
-  TENAGEHU TANT
-  BATTLE TANK
-  ALADDIN 3
-  TECKO BOWL
-  MICKEY MOUSE
-  QUARTH
-  MO YA JIN
-  GRADIUS
-  MYSTERY
-  FRIDAY THE 13
-  634 KEN
-  BOOT CAT
-  HELLO KIDY
-  SOLOMONS KEY
-  FUPULL
-  DEBLOCK
-  BOWLING
-  SPACE HUNTER
-  TRANSF ORMES
-  KARAKI
-  CADIL
-  WOTER PIP
-  QUARTERBACK
-  KARATE CHAMP
-  KING KNIFHT
-  DAISAKUSEN
-  VENICE BEACH VOLL
-  SANRIO CARNIVAL
-  SKY KID
-  PON PON VOLLEY
-  SANSUU 1
-  SANSUU 2
-  SANSUU 3
-  SANSUU 4
-  SANSUU 5
-  SHOCKWAVE
-  TILES OF FATE
-  TSUPPARI OOZUMOU
-  DENSETSU
-  COSMOS COP
-  BAR GAMES
-  BUGGY POPPER
-  LI MA SHIN DIAN
-  METAL FIGHTER
-  PIPE DREAM
-  ATLANTIS
-  CYBRNOID
-  CITY CONNECTION
-  CHOP LIFTER
-  TWIN BEE
-  LEGEND OF KAGE
-  DR MARIO
-  GOONIES
-  GYRUSS
-  WISDOM
-  POWER ROBOT
-  PULVERATION
-  RABBITVILLAGE
-  RIVER JUMP
-  SEAPORT GUARL
-  SEAWOLF
-  SPACE BASE
-  SPIDERMAN 2
-  SPIDERMAN 1
-  SPRING WORLD
-  STAR
-  SUBMARINE
-  THROUGHMAN
-  TOY FACTORY
-  UTMOST WARFARE
-  VIGILANT
-  WARZONE
-  WATER PIPE
-  WILDWORM
-  WONDER BALL
-  MOVE BOX
-  COLOR FULL DRAGON
-  BACK FUTURE
-  ARKISTA RING
-  BANDAI GOLF
-  CASTLE EXCELLENT
-  TIGER HELI
-  THE UNIVERSE SOLD
-  DASH GALAXY
-  Q-BERT
-  EGYPT
-  ALPHA MISSION
-  FIREHOUSE RESCUE
-  I CAN REMEMBER
-  HOKUTO NO KEN
-  CHITEI TANKEN
-  BATTLE SHIP
-  SECRET CASTLE
-  DEST EARTHSTAR
-  TRUCK RALLY
-  BINGO 75
-  BUMP N JUMP
-  DINO RIKI
-  GHOST BUSTERS
-  SPY HUNTER
-  PAPER BOY
-  TENAGEHU TANT
-  BATTLE TANK
-  ALADDIN 3
-  TECKO BOWL
-  MICKEY MOUSE
-  QUARTH
-  MO YA JIN
-  GRADIUS
-  MYSTERY
-  FRIDAY THE 13
-  634 KEN
-  BOOT CAT
-  HELLO KIDY
-  SOLOMONS KEY
-  FLIPULL
-  DEBLOCK
-  BOWLING
-  SPACE HUNTER
-  TRANSFORMS
-  KARAKI
-  CADIL
-  WOTER PIP
-  QUARTERBACK
-  KARATE CHAMP
-  KING KNIGHT
-  DAISAKUSEN
-  VEINCE BEACH VOLL
-  SANRIO CARNIVAL
-  SKY KID
-  PON PON VOLLEY
-  SANSUU 1
-  SANSUU 2
-  SANSUU 3
-  SANSUU 4
-  SANSUU 5
-  SHOCKWAVE
-  TILES OF FATE
-  TSUPPARI OOZUMOU
-  DENSETSU
-  COSMOS COP
-  BAR GAMES
-  BUGGY POPPER
-  LI MA SHIN DIAN
-  METAL FIGHTER
-  PIPE DREAM
-  ATLANTIS
-  CYBRNOID
-  CITY CONNRCTION
-  CHOP LIFTER
-  TWIN BEE
-  LEGEND OF KAGE
-  GOONIES
-  GYRUSS
-  WISDOM
-  CHESS
-  CIRCUS CHANGE
-  CLU CLU LAND
-  COMBAT
-  DEFENDER
-  DEVIL WORLD
-  DIG DUG 1
-  DONKEY KONG 1
-DONKEY KONG 2
-DONKEY KONG 3
-DONKEY KONG JR MA
-DOOR DOOR
-EXCITE BIKE 
-EXERION
-F1 RACE
-FORMATION Z
-FRONT LINE
-GALAGA
-GALAXIAN
-GOLF
-RAID ON BUNGELING
-HYPER OLYMPIC
-HYPER SPORTS
-JOUST 
-KARATERA
-LODE RUNNER
-LUNAR BALL
-MACROSS
-MAGIC JEWELRY
-MAHJONG 4P
-MAHJONG 2P
-MAPPY
-MARIO BROS
-MILK&NUTS
-MILLIPEDE
-MUSCLE
-NAITOU
-NIBBLES
-NINJA 1
-NINJA 3
-ROAD FIGHTER
-OTHELLO
-PACMAN
-PIN BALL
-POOYAN
-POPEYE
-SKY DESTROYER
-SPACE ET
-STAR FORCE
-TENNIS
-URBAN CHAMPION
-WARPMAN
-YIE AR KUNG FU
-ZIPPY RACE
-1942
-ARKANOID
-ASTRO ROBO SASA
-B WINGS
-BADMINTON
-BALTRON
-BOKOSUKA WARS
-BOMB JACK
-PORTER
-CHUBBY CHERUB
-DESTROY
-DIG DUG 2
-DOUGH BOY
-DRAGON
-DRUAGA
-DUCK
-ELEVATOR ACTION
-EXED EXES
-FLAPPY
-FRUTI PIG
-GALG
-GRIMOS
-GYRODINE
-HEXA
-ICE HOCKEY
-LOT LOT
-MAGMAX
-PIKU CHU
-NINJA 2
-OBAKE
-ONYANKO TOWN
-PAC LAND
-PACHI COM
-PRP WRESTLING
-PYRAMID
-ROUTE-16
-SEICROSS
-SLALOM
-SOCCER 
-SONSON
-SPARTAN X
-SPELUNKER
-SPY VS SPY
-SQOON
-STAR LUSTER
-FROG PRINCE
-TETRIS 2
-THEXDER
-VOLGUARD II
-VOLLEY BALL
-WARS
-XEVIOUS
-CHINESE CHESS
-CHALLENGER
-MACH RIODER
-SUDOKU
-AQUARIUM
-AREAN
-AIR ALEPT
-AWFUL RUSHING
-AIMLESS
-BURBLES
-BURROW EXPLORER
-BUG'S WAR
-BOMB KING
-BASEBALL NEW
-
-  */
-
-  { nintendoNumber: 1111111, gameName: "WOLF" },
-  { nintendoNumber: 1111111, gameName: "WOLF" },
 ];
 
 export default oldSchoolData;
