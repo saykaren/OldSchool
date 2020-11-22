@@ -1,11 +1,10 @@
 @import './Variables.scss';
 @import './Searchable.scss';
 
-.App {
+body {
     text-align: center;
     background-color: $primary-color;
     color: $secondary-color;
-    // height: 100vh;
   }
   
   .App-logo {
